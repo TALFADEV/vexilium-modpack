@@ -166,5 +166,57 @@
       "sha1": "ad9179e30cb7b3ffb42b3d9b8e2e9408b473d7fa",
       "size": 4923439
     }
+  ],
+  "radio": [
+    {
+      "artist": "RandomMind",
+      "title": "battle",
+      "url": "https://github.com/TALFADEV/vexilium-modpack/releases/download/radio-1/RandomMind.-.battle.mp3"
+    },
+    {
+      "artist": "RandomMind",
+      "title": "Exploration",
+      "url": "https://github.com/TALFADEV/vexilium-modpack/releases/download/radio-1/RandomMind.-.Exploration.mp3"
+    },
+    {
+      "artist": "RandomMind",
+      "title": "harvestseason",
+      "url": "https://github.com/TALFADEV/vexilium-modpack/releases/download/radio-1/RandomMind.-.harvestseason.mp3"
+    },
+    {
+      "artist": "RandomMind",
+      "title": "Kings Feast",
+      "url": "https://github.com/TALFADEV/vexilium-modpack/releases/download/radio-1/RandomMind.-.Kings.Feast.mp3"
+    },
+    {
+      "artist": "RandomMind",
+      "title": "Market Day",
+      "url": "https://github.com/TALFADEV/vexilium-modpack/releases/download/radio-1/RandomMind.-.Market.Day.mp3"
+    },
+    {
+      "artist": "RandomMind",
+      "title": "Minstrel Dance",
+      "url": "https://github.com/TALFADEV/vexilium-modpack/releases/download/radio-1/RandomMind.-.Minstrel.Dance.mp3"
+    },
+    {
+      "artist": "RandomMind",
+      "title": "Rejoicing",
+      "url": "https://github.com/TALFADEV/vexilium-modpack/releases/download/radio-1/RandomMind.-.Rejoicing.mp3"
+    },
+    {
+      "artist": "RandomMind",
+      "title": "The Bards Tale",
+      "url": "https://github.com/TALFADEV/vexilium-modpack/releases/download/radio-1/RandomMind.-.The.Bards.Tale.mp3"
+    },
+    {
+      "artist": "RandomMind",
+      "title": "The Old Tower Inn",
+      "url": "https://github.com/TALFADEV/vexilium-modpack/releases/download/radio-1/RandomMind.-.The.Old.Tower.Inn.mp3"
+    },
+    {
+      "artist": "RandomMind",
+      "title": "victory",
+      "url": "https://github.com/TALFADEV/vexilium-modpack/releases/download/radio-1/RandomMind.-.victory.mp3"
+    }
   ]
 }
