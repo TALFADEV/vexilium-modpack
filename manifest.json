@@ -5,9 +5,19 @@
   "server": {
     "address": ""
   },
+  "links": {
+    "discord": "https://discord.gg/TON-INVITATION",
+    "site": "https://TON-SITE",
+    "map": "https://TA-CARTE"
+  },
+  "countdown": {
+    "title": "Ouverture de la bêta",
+    "date": "2026-11-01T18:00:00+01:00"
+  },
+  "celebrationUntil": "2026-11-03",
   "news": [
     {
-      "title": "Bienvenue sur le launcher Vexilium (version de test)",
+      "title": "Bienvenue sur le launcher Vexilium",
       "date": "2026-10-17"
     }
   ],
