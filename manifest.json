@@ -1,0 +1,10 @@
+{
+  "version": "0.0.1",
+  "minecraft": "1.20.1",
+  "forge": "47.4.10",
+  "server": { "address": "" },
+  "news": [
+    { "title": "Bienvenue sur le launcher Vexilium (version de test)", "date": "2026-10-17" }
+  ],
+  "mods": []
+}
