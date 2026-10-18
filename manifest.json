@@ -8,6 +8,7 @@
   "links": {
     "site": "https://vexilium.fr"
   },
+  "api": "https://vexilium.fr",
   "news": [
     {
       "title": "Bienvenue sur le launcher Vexilium",
