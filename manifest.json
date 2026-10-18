@@ -3,7 +3,10 @@
   "minecraft": "1.20.1",
   "forge": "47.4.10",
   "server": {
-    "address": ""
+    "address": "play.vexilium.fr"
+  },
+  "links": {
+    "site": "https://vexilium.fr"
   },
   "news": [
     {
