@@ -1,5 +1,5 @@
 {
-  "version": "0.1.6",
+  "version": "0.1.7",
   "minecraft": "1.20.1",
   "forge": "47.4.10",
   "server": {
@@ -19,49 +19,56 @@
     {
       "name": "copycats-3.0.10+mc.1.20.1-forge",
       "path": "mods/copycats-3.0.10+mc.1.20.1-forge.jar",
-      "url": "https://github.com/TALFADEV/vexilium-modpack/releases/download/modpack-0.1.6/copycats-3.0.10+mc.1.20.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/LlMxIysb/copycats-3.0.10%2Bmc.1.20.1-forge.jar",
       "sha1": "939d4ca4ac42b93c05a5fb92e629fb8cff060dc9",
       "size": 2003713
     },
     {
-      "name": "create-1.20.1-6.0.8",
+      "name": "Create Repair 1.3.0",
+      "path": "mods/create_repair-forge-1.20.1-1.3.0-all.jar",
+      "url": "https://cdn.modrinth.com/data/G3K7UdxY/versions/Cu8CVRG9/create_repair-forge-1.20.1-1.3.0-all.jar",
+      "sha1": "7ac132f658abcffb6c1047610fc3139c33d17ee1",
+      "size": 1410563
+    },
+    {
+      "name": "Create 6.0.8 for mc1.20.1",
       "path": "mods/create-1.20.1-6.0.8.jar",
-      "url": "https://github.com/TALFADEV/vexilium-modpack/releases/download/modpack-0.1.6/create-1.20.1-6.0.8.jar",
+      "url": "https://cdn.modrinth.com/data/LNytGWDc/versions/8amzvn9x/create-1.20.1-6.0.8.jar",
       "sha1": "b13d912b9247a38d66d11598c121442585a1c1e9",
       "size": 19170905
     },
     {
-      "name": "createaddition-1.20.1-1.3.3",
+      "name": "createaddition-forge-1.20.1-1.3.3",
       "path": "mods/createaddition-1.20.1-1.3.3.jar",
-      "url": "https://github.com/TALFADEV/vexilium-modpack/releases/download/modpack-0.1.6/createaddition-1.20.1-1.3.3.jar",
+      "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/9LgyB6Yb/createaddition-1.20.1-1.3.3.jar",
       "sha1": "c7d464c451fdc2979bc29a67d7eec2a30858af12",
       "size": 1577313
     },
     {
-      "name": "createbigcannons-5.11.4-mc.1.20.1-forge",
+      "name": "Create Big Cannons 5.11.4",
       "path": "mods/createbigcannons-5.11.4-mc.1.20.1-forge.jar",
-      "url": "https://github.com/TALFADEV/vexilium-modpack/releases/download/modpack-0.1.6/createbigcannons-5.11.4-mc.1.20.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/GWp4jCJj/versions/ZRgu5o3x/createbigcannons-5.11.4-mc.1.20.1-forge.jar",
       "sha1": "d9be0ace572fe54be904da1bb0b0cc8711db3b70",
       "size": 4058306
     },
     {
-      "name": "createdeco-2.0.3-1.20.1-forge",
+      "name": "Create Deco 2.0.3-1.20.1-forge",
       "path": "mods/createdeco-2.0.3-1.20.1-forge.jar",
-      "url": "https://github.com/TALFADEV/vexilium-modpack/releases/download/modpack-0.1.6/createdeco-2.0.3-1.20.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/sMvUb4Rb/versions/e9gaSRMd/createdeco-2.0.3-1.20.1-forge.jar",
       "sha1": "54c8ad5686b846310bca9e69982a455e668dede3",
       "size": 3509013
     },
     {
       "name": "curios-forge-5.14.1+1.20.1",
       "path": "mods/curios-forge-5.14.1+1.20.1.jar",
-      "url": "https://github.com/TALFADEV/vexilium-modpack/releases/download/modpack-0.1.6/curios-forge-5.14.1+1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/IPQlZkz1/curios-forge-5.14.1%2B1.20.1.jar",
       "sha1": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480",
       "size": 398066
     },
     {
-      "name": "embeddium-0.3.31+mc1.20.1",
+      "name": "[1.20.1] Embeddium 0.3.31",
       "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
-      "url": "https://github.com/TALFADEV/vexilium-modpack/releases/download/modpack-0.1.6/embeddium-0.3.31+mc1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/sk9rgfiA/versions/UTbfe5d1/embeddium-0.3.31%2Bmc1.20.1.jar",
       "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f",
       "size": 1320675
     },
@@ -73,37 +80,37 @@
       "size": 1515076
     },
     {
-      "name": "ferritecore-6.0.1-forge",
+      "name": "6.0.1 (Forge)",
       "path": "mods/ferritecore-6.0.1-forge.jar",
-      "url": "https://github.com/TALFADEV/vexilium-modpack/releases/download/modpack-0.1.6/ferritecore-6.0.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar",
       "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba",
       "size": 123034
     },
     {
-      "name": "geckolib-forge-1.20.1-4.8.4",
+      "name": "Forge 1.20.1",
       "path": "mods/geckolib-forge-1.20.1-4.8.4.jar",
-      "url": "https://github.com/TALFADEV/vexilium-modpack/releases/download/modpack-0.1.6/geckolib-forge-1.20.1-4.8.4.jar",
+      "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/aC5KMoNg/geckolib-forge-1.20.1-4.8.4.jar",
       "sha1": "50e1407869ef0e909e3bdda9328b8bd7db03fdc0",
       "size": 1038209
     },
     {
-      "name": "ImmediatelyFast-Forge-1.5.5+1.20.4",
+      "name": "ImmediatelyFast 1.5.5",
       "path": "mods/ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
-      "url": "https://github.com/TALFADEV/vexilium-modpack/releases/download/modpack-0.1.6/ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
+      "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/rvsLEEZU/ImmediatelyFast-Forge-1.5.5%2B1.20.4.jar",
       "sha1": "9eacd407b7dea636d375dc47335d92f616484ea2",
       "size": 532063
     },
     {
-      "name": "Jade-1.20.1-Forge-11.13.3",
+      "name": "[Forge 1.20.1] 11.13.3",
       "path": "mods/Jade-1.20.1-Forge-11.13.3.jar",
-      "url": "https://github.com/TALFADEV/vexilium-modpack/releases/download/modpack-0.1.6/Jade-1.20.1-Forge-11.13.3.jar",
+      "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/xJQHCmWJ/Jade-1.20.1-Forge-11.13.3.jar",
       "sha1": "d08e64e66521d69e083c8525f1fc507f1c202384",
       "size": 553487
     },
     {
-      "name": "jei-1.20.1-forge-15.56.0.205",
+      "name": "15.56.0.205 for Forge 1.20.1",
       "path": "mods/jei-1.20.1-forge-15.56.0.205.jar",
-      "url": "https://github.com/TALFADEV/vexilium-modpack/releases/download/modpack-0.1.6/jei-1.20.1-forge-15.56.0.205.jar",
+      "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/9jqubC9n/jei-1.20.1-forge-15.56.0.205.jar",
       "sha1": "7f64b7f8fde7f001ef054dabe3618a8780ba2650",
       "size": 1778129
     },
@@ -115,51 +122,51 @@
       "size": 4353808
     },
     {
-      "name": "modernfix-forge-5.27.88+mc1.20.1",
+      "name": "modernfix-forge-5.27.88+mc1.20.1.jar",
       "path": "mods/modernfix-forge-5.27.88+mc1.20.1.jar",
-      "url": "https://github.com/TALFADEV/vexilium-modpack/releases/download/modpack-0.1.6/modernfix-forge-5.27.88+mc1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/bDP3S7Vh/modernfix-forge-5.27.88%2Bmc1.20.1.jar",
       "sha1": "c550424a1a5435dfc838672e1df61289717cb2cc",
       "size": 1009661
     },
     {
-      "name": "ritchiesprojectilelib-2.1.1+mc.1.20.1-forge",
+      "name": "Ritchie's Projectile Library 2.1.1",
       "path": "mods/ritchiesprojectilelib-2.1.1+mc.1.20.1-forge.jar",
-      "url": "https://github.com/TALFADEV/vexilium-modpack/releases/download/modpack-0.1.6/ritchiesprojectilelib-2.1.1+mc.1.20.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/B3pb093D/versions/PdGBsNte/ritchiesprojectilelib-2.1.1%2Bmc.1.20.1-forge.jar",
       "sha1": "3e13ad86b2cc4107b8a18eec1d980ed19cdc37aa",
       "size": 78625
     },
     {
-      "name": "sophisticatedbackpacks-1.20.1-3.26.12.2206",
+      "name": "1.20.1-3.26.12.2206",
       "path": "mods/sophisticatedbackpacks-1.20.1-3.26.12.2206.jar",
-      "url": "https://github.com/TALFADEV/vexilium-modpack/releases/download/modpack-0.1.6/sophisticatedbackpacks-1.20.1-3.26.12.2206.jar",
+      "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/X7q2xTaV/sophisticatedbackpacks-1.20.1-3.26.12.2206.jar",
       "sha1": "d0fe750e3f7a17e637197f368182d9e432c767b1",
       "size": 1220810
     },
     {
-      "name": "sophisticatedcore-1.20.1-1.5.9.2391",
+      "name": "1.20.1-1.5.9.2391",
       "path": "mods/sophisticatedcore-1.20.1-1.5.9.2391.jar",
-      "url": "https://github.com/TALFADEV/vexilium-modpack/releases/download/modpack-0.1.6/sophisticatedcore-1.20.1-1.5.9.2391.jar",
+      "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/ClP52cOE/sophisticatedcore-1.20.1-1.5.9.2391.jar",
       "sha1": "3e44e84addd809d253daf8c248efb04bb755bb0d",
       "size": 1763288
     },
     {
-      "name": "Steam_Rails-1.7.3+forge-mc1.20.1",
+      "name": "Steam 'n' Rails 1.7.3 Forge 1.20.1 C6",
       "path": "mods/Steam_Rails-1.7.3+forge-mc1.20.1.jar",
-      "url": "https://github.com/TALFADEV/vexilium-modpack/releases/download/modpack-0.1.6/Steam_Rails-1.7.3+forge-mc1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/7Uk6lWkU/Steam_Rails-1.7.3%2Bforge-mc1.20.1.jar",
       "sha1": "5f904126d942cdbd272a5254ec6145851e5e1e7a",
       "size": 17042037
     },
     {
-      "name": "tacz-1.20.1-1.1.8-hotfix2",
+      "name": "[TaCZ] Timeless and Classics Zero 1.1.8-hotfix2",
       "path": "mods/tacz-1.20.1-1.1.8-hotfix2.jar",
-      "url": "https://github.com/TALFADEV/vexilium-modpack/releases/download/modpack-0.1.6/tacz-1.20.1-1.1.8-hotfix2.jar",
+      "url": "https://cdn.modrinth.com/data/SzzJttH8/versions/AzCBJlex/tacz-1.20.1-1.1.8-hotfix2.jar",
       "sha1": "5c2f72dfe8125ffa863e3b5feafa27d86d7e56ea",
       "size": 57472579
     },
     {
       "name": "vexilium-0.1.0",
       "path": "mods/vexilium-0.1.0.jar",
-      "url": "https://github.com/TALFADEV/vexilium-modpack/releases/download/modpack-0.1.6/vexilium-0.1.0.jar",
+      "url": "https://github.com/TALFADEV/vexilium-modpack/releases/download/modpack-0.1.7/vexilium-0.1.0.jar",
       "sha1": "d4f6a010f31a7de3f312e1754c6e9676bf7231e0",
       "size": 2112042
     },
