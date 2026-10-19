@@ -1,5 +1,5 @@
 {
-  "version": "0.2.2",
+  "version": "0.2.3",
   "minecraft": "1.20.1",
   "forge": "47.4.10",
   "server": {
@@ -190,6 +190,13 @@
       "url": "https://cdn.modrinth.com/data/dzb1a5WV/versions/eMalpJtP/CreateDragonsPlus-1.11.9.jar",
       "sha1": "cb249347ad15914619a81371b4cfa35f74f575ed",
       "size": 988334
+    },
+    {
+      "name": "Create Goggles 6.1.1 [FORGE]",
+      "path": "mods/creategoggles-1.20.1-6.1.1-[FORGE].jar",
+      "url": "https://cdn.modrinth.com/data/L1RT5SJc/versions/Nc2Ag5HT/creategoggles-1.20.1-6.1.1-%5BFORGE%5D.jar",
+      "sha1": "b4c33c5aef3af53d3bd2074034c6c011789eef65",
+      "size": 384668
     },
     {
       "name": "[Forge] Create Ore Excavation 1.20-1.6.6",
@@ -523,9 +530,9 @@
     {
       "name": "vexilium-0.1.0",
       "path": "mods/vexilium-0.1.0.jar",
-      "url": "https://github.com/TALFADEV/vexilium-modpack/releases/download/modpack-0.2.2/vexilium-0.1.0.jar",
-      "sha1": "c4768d4db08dbde0c74e72e82aeffe3cae13aa38",
-      "size": 2220208
+      "url": "https://github.com/TALFADEV/vexilium-modpack/releases/download/modpack-0.2.3/vexilium-0.1.0.jar",
+      "sha1": "3218889b5a18df89b34fe48d87184967a79d89be",
+      "size": 2301077
     },
     {
       "name": "Simple Voice Chat 1.20.1-2.6.22",
