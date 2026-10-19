@@ -1,5 +1,5 @@
 {
-  "version": "0.2.0",
+  "version": "0.2.1",
   "minecraft": "1.20.1",
   "forge": "47.4.10",
   "server": {
@@ -17,11 +17,74 @@
   ],
   "mods": [
     {
+      "name": "1.20-2.2.6",
+      "path": "mods/amendments-1.20-2.2.6.jar",
+      "url": "https://cdn.modrinth.com/data/6iTJugQR/versions/nJORWvdh/amendments-1.20-2.2.6.jar",
+      "sha1": "dc79f8c5326b059c8f136765b4bca826147cf2d7",
+      "size": 1315525
+    },
+    {
+      "name": "appleskin-forge-mc1.20.1-2.5.1",
+      "path": "mods/appleskin-forge-mc1.20.1-2.5.1.jar",
+      "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/XdXDExVF/appleskin-forge-mc1.20.1-2.5.1.jar",
+      "sha1": "81919356f84eab14258db98924b66c3c38e372b1",
+      "size": 47428
+    },
+    {
+      "name": "[Forge 1.20(.1)] v9.2.14",
+      "path": "mods/architectury-9.2.14-forge.jar",
+      "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1MKTLiiG/architectury-9.2.14-forge.jar",
+      "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4",
+      "size": 580602
+    },
+    {
+      "name": "[Forge] Athena 3.1.2",
+      "path": "mods/athena-forge-1.20.1-3.1.2.jar",
+      "url": "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/DULOQFj7/athena-forge-1.20.1-3.1.2.jar",
+      "sha1": "2acee24454af859988a691f0506271a465f68f7b",
+      "size": 91808
+    },
+    {
       "name": "0.4.5-mc1.20.1 for Create v6",
       "path": "mods/bellsandwhistles-0.4.5-1.20.x-Create6.0+.jar",
       "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/kW8DoegV/bellsandwhistles-0.4.5-1.20.x-Create6.0%2B.jar",
       "sha1": "2487eea5f1368d70e16c7c6a08c18be3b5d3c0d0",
       "size": 199902
+    },
+    {
+      "name": "Carry On 2.1.2.7",
+      "path": "mods/carryon-forge-1.20.1-2.1.2.7.jar",
+      "url": "https://cdn.modrinth.com/data/joEfVgkn/versions/edGQD16r/carryon-forge-1.20.1-2.1.2.7.jar",
+      "sha1": "9999714ca3dd2f2401f0396ca44f3b27c3784c4f",
+      "size": 439457
+    },
+    {
+      "name": "Create Big Cannons: Advanced Technologies 0.1.4b-1.20.1",
+      "path": "mods/cbc_at_Forge_1.20.1_0.1.4b.jar",
+      "url": "https://cdn.modrinth.com/data/pTfszyXD/versions/OE2cfAso/cbc_at_Forge_1.20.1_0.1.4b.jar",
+      "sha1": "7dc2266ee020d827cb1eae265befc54b8f59c684",
+      "size": 1436068
+    },
+    {
+      "name": "0.15.7",
+      "path": "mods/chat_heads-0.15.7-forge-1.20.jar",
+      "url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/UJALMfLK/chat_heads-0.15.7-forge-1.20.jar",
+      "sha1": "80582e413216eb014d83252b05c731a4a151fe9b",
+      "size": 724902
+    },
+    {
+      "name": "[Forge] Chipped 3.0.7",
+      "path": "mods/chipped-forge-1.20.1-3.0.7.jar",
+      "url": "https://cdn.modrinth.com/data/BAscRYKm/versions/pi3f4er3/chipped-forge-1.20.1-3.0.7.jar",
+      "sha1": "25ee2a0846059d8f21d28b94b7e0229b60cb5499",
+      "size": 15060263
+    },
+    {
+      "name": "Forge-1.20.1-12.0.0.4",
+      "path": "mods/Clumps-forge-1.20.1-12.0.0.4.jar",
+      "url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/nAHGB5ls/Clumps-forge-1.20.1-12.0.0.4.jar",
+      "sha1": "8809c7aa6c71389e9c59abfe5def52c1cb8d4f1c",
+      "size": 20300
     },
     {
       "name": "copycats-3.0.10+mc.1.20.1-forge",
@@ -50,6 +113,20 @@
       "url": "https://cdn.modrinth.com/data/j6Zt3N7W/versions/Zwitv6ea/create_factory-0.5a-1.20.1.jar",
       "sha1": "891f0d144540caa53ed307f975b84008b658c4a6",
       "size": 263617
+    },
+    {
+      "name": "Create: Pattern Schematics 1.3.3 Forge 1.20.1",
+      "path": "mods/create_pattern_schematics-1.3.3.jar",
+      "url": "https://cdn.modrinth.com/data/cpqKG67r/versions/Rfwgb1aK/create_pattern_schematics-1.3.3.jar",
+      "sha1": "54ad9320a644dbcde87118e82a6dfcc81cd4757b",
+      "size": 220784
+    },
+    {
+      "name": "Create: Radars 0.4.5",
+      "path": "mods/create_radar-0.4.6+mc1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/BLu2Yqfq/versions/ruxlsWci/create_radar-0.4.6%2Bmc1.20.1.jar",
+      "sha1": "f48dcf8c018459b71ff3a254e5a30d9e9d1038c6",
+      "size": 2966625
     },
     {
       "name": "Create Repair 1.3.0",
@@ -150,6 +227,27 @@
       "size": 2631747
     },
     {
+      "name": "Easy NPC (Bundle) 7.16.0",
+      "path": "mods/easy_npc_bundle-forge-1.20.1-7.16.0.jar",
+      "url": "https://cdn.modrinth.com/data/CgGEe1h3/versions/iaFm8RmB/easy_npc_bundle-forge-1.20.1-7.16.0.jar",
+      "sha1": "3c38c0948392b522f1c3795b16c7bb34e4206948",
+      "size": 25443
+    },
+    {
+      "name": "Easy NPC Config UI 7.16.0",
+      "path": "mods/easy_npc_config_ui-forge-1.20.1-7.16.0.jar",
+      "url": "https://cdn.modrinth.com/data/uTGjf7vA/versions/MKZYT3EJ/easy_npc_config_ui-forge-1.20.1-7.16.0.jar",
+      "sha1": "772648c69f2d89d3ef36191fa228e302a31a4b57",
+      "size": 1162756
+    },
+    {
+      "name": "Easy NPC 7.16.0",
+      "path": "mods/easy_npc-forge-1.20.1-7.16.0.jar",
+      "url": "https://cdn.modrinth.com/data/Epm6R3P2/versions/b8Y4tlRF/easy_npc-forge-1.20.1-7.16.0.jar",
+      "sha1": "fe623198e607b30dcd83d8f48ddb34d1c2d9f8c3",
+      "size": 3181205
+    },
+    {
       "name": "[1.20.1] Embeddium 0.3.31",
       "path": "mods/embeddium-0.3.31+mc1.20.1.jar",
       "url": "https://cdn.modrinth.com/data/sk9rgfiA/versions/UTbfe5d1/embeddium-0.3.31%2Bmc1.20.1.jar",
@@ -162,6 +260,13 @@
       "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/HUUJcFnt/entityculling-forge-1.11.3-mc1.20.1.jar",
       "sha1": "d3c513e88ef9f5cdd7e27d17d923d4dca69c6d55",
       "size": 1515076
+    },
+    {
+      "name": "Exposure - 1.9.22",
+      "path": "mods/exposure-forge-1.20.1-1.9.22.jar",
+      "url": "https://cdn.modrinth.com/data/hB899VmG/versions/P0Y8dFLl/exposure-forge-1.20.1-1.9.22.jar",
+      "sha1": "3724310c2e7940844f7bb2dbb89e0730c074028e",
+      "size": 2249463
     },
     {
       "name": "Farmer's Delight 1.3.4 - 1.20.1",
@@ -185,6 +290,13 @@
       "size": 2465304
     },
     {
+      "name": "FramedBlocks 9.4.3",
+      "path": "mods/FramedBlocks-9.4.3.jar",
+      "url": "https://cdn.modrinth.com/data/wbgfS34j/versions/lSiHA1qU/FramedBlocks-9.4.3.jar",
+      "sha1": "740c0feaab75455f32df7e137389f77c83fb490c",
+      "size": 4251314
+    },
+    {
       "name": "Create: Garnished 2.1.7.c for mc1.20.1",
       "path": "mods/garnished-2.1.7.c+1.20.1-neoforged.jar",
       "url": "https://cdn.modrinth.com/data/6e2SlzR4/versions/8juNVSLp/garnished-2.1.7.c%2B1.20.1-neoforged.jar",
@@ -199,11 +311,32 @@
       "size": 1038209
     },
     {
+      "name": "0.0.1.1 for Forge 1.20.1",
+      "path": "mods/GlitchCore-forge-1.20.1-0.0.1.1.jar",
+      "url": "https://cdn.modrinth.com/data/s3dmwKy5/versions/pYPZ5MNI/GlitchCore-forge-1.20.1-0.0.1.1.jar",
+      "sha1": "bba0b08fe76b28b35243fee53f99d54a18153b53",
+      "size": 87551
+    },
+    {
       "name": "ImmediatelyFast 1.5.5",
       "path": "mods/ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
       "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/rvsLEEZU/ImmediatelyFast-Forge-1.5.5%2B1.20.4.jar",
       "sha1": "9eacd407b7dea636d375dc47335d92f616484ea2",
       "size": 532063
+    },
+    {
+      "name": "[Forge 1.20.1] Immersive Aircraft - 1.5.0",
+      "path": "mods/immersive_aircraft-1.5.0+1.20.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/aDUlOdzA/immersive_aircraft-1.5.0%2B1.20.1-forge.jar",
+      "sha1": "dceb59fc5dbfa30625bfa56256480708e0c58419",
+      "size": 2441036
+    },
+    {
+      "name": "[Forge 1.20.1] Immersive Paintings - 0.6.13",
+      "path": "mods/immersive_paintings-0.6.13+1.20.1-forge.jar",
+      "url": "https://cdn.modrinth.com/data/6txNkua3/versions/DYpJU8lA/immersive_paintings-0.6.13%2B1.20.1-forge.jar",
+      "sha1": "3f2a668f2235a6a908fde545d140013456b5412f",
+      "size": 4856103
     },
     {
       "name": "Interiors 0.6.0 for Forge 1.20.1",
@@ -241,6 +374,48 @@
       "size": 7442998
     },
     {
+      "name": "Macaw's Bridges 3.1.2",
+      "path": "mods/mcw-bridges-3.1.2-mc1.20.1forge.jar",
+      "url": "https://cdn.modrinth.com/data/GURcjz8O/versions/KImk0Oo1/mcw-bridges-3.1.2-mc1.20.1forge.jar",
+      "sha1": "24f30313977ec61520a2adab321188b51c208d16",
+      "size": 693579
+    },
+    {
+      "name": "Doors 1.1.5",
+      "path": "mods/mcw-doors-1.1.5-mc1.20.1forge.jar",
+      "url": "https://cdn.modrinth.com/data/kNxa8z3e/versions/n8BlIUm3/mcw-doors-1.1.5-mc1.20.1forge.jar",
+      "sha1": "fe6a9eb2fbc78300a6286fd25854c9f087e689a6",
+      "size": 1246753
+    },
+    {
+      "name": "Macaw's Furniture 3.4.1",
+      "path": "mods/mcw-furniture-3.4.1-mc1.20.1forge.jar",
+      "url": "https://cdn.modrinth.com/data/dtWC90iB/versions/mvGf4LNK/mcw-furniture-3.4.1-mc1.20.1forge.jar",
+      "sha1": "c05189646bbde5c0d4486b93de0d707115f8445c",
+      "size": 2174615
+    },
+    {
+      "name": "Macaw's Fences and Walls 1.2.1",
+      "path": "mods/mcw-mcwfences-1.2.1-mc1.20.1forge.jar",
+      "url": "https://cdn.modrinth.com/data/GmwLse2I/versions/HnyfcyJ9/mcw-mcwfences-1.2.1-mc1.20.1forge.jar",
+      "sha1": "d24bc6e1ba7f04e058db019ae5ca3d10edd9510a",
+      "size": 708634
+    },
+    {
+      "name": "Macaw's Windows 2.4.2",
+      "path": "mods/mcw-mcwwindows-2.4.2-mc1.20.1forge.jar",
+      "url": "https://cdn.modrinth.com/data/C7I0BCni/versions/SSIlzrPf/mcw-mcwwindows-2.4.2-mc1.20.1forge.jar",
+      "sha1": "214da89b2153d496343bde8626283975e358edbd",
+      "size": 1320692
+    },
+    {
+      "name": "Roofs 2.3.2",
+      "path": "mods/mcw-roofs-2.3.2-mc1.20.1forge.jar",
+      "url": "https://cdn.modrinth.com/data/B8jaH3P1/versions/31e80GhE/mcw-roofs-2.3.2-mc1.20.1forge.jar",
+      "sha1": "2b02beb2bd177aa695dc6fc030fc3bb230ca96b1",
+      "size": 1864023
+    },
+    {
       "name": "modernfix-forge-5.27.88+mc1.20.1.jar",
       "path": "mods/modernfix-forge-5.27.88+mc1.20.1.jar",
       "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/bDP3S7Vh/modernfix-forge-5.27.88%2Bmc1.20.1.jar",
@@ -248,11 +423,46 @@
       "size": 1009661
     },
     {
+      "name": "moonlight-1.20-2.16.37-forge",
+      "path": "mods/moonlight-1.20-2.16.37-forge.jar",
+      "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/b1cuadwV/moonlight-1.20-2.16.37-forge.jar",
+      "sha1": "a04155ec07a586416543039d61028e2a582f0b04",
+      "size": 1425211
+    },
+    {
+      "name": "[1.20.1 Forge] Mouse Tweaks 2.25.1",
+      "path": "mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+      "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/7JVXOe3K/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+      "sha1": "d751153e722a4e014691c83f39f5b07c6ec5333c",
+      "size": 76237
+    },
+    {
+      "name": "1.20.1-85-forge",
+      "path": "mods/Patchouli-1.20.1-85-FORGE.jar",
+      "url": "https://cdn.modrinth.com/data/nU0bVIaL/versions/94dtOLgZ/Patchouli-1.20.1-85-FORGE.jar",
+      "sha1": "d4614507d6e4c7cb464bba5eca891978272062ef",
+      "size": 642732
+    },
+    {
+      "name": "[Forge] Resourceful Lib 2.1.29",
+      "path": "mods/resourcefullib-forge-1.20.1-2.1.29.jar",
+      "url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/OhsHaCcW/resourcefullib-forge-1.20.1-2.1.29.jar",
+      "sha1": "6fc590a7c56a720fec57e290cbb0a106efbb3ffa",
+      "size": 432753
+    },
+    {
       "name": "Ritchie's Projectile Library 2.1.1",
       "path": "mods/ritchiesprojectilelib-2.1.1+mc.1.20.1-forge.jar",
       "url": "https://cdn.modrinth.com/data/B3pb093D/versions/PdGBsNte/ritchiesprojectilelib-2.1.1%2Bmc.1.20.1-forge.jar",
       "sha1": "3e13ad86b2cc4107b8a18eec1d980ed19cdc37aa",
       "size": 78625
+    },
+    {
+      "name": "9.1.0.3 for Forge 1.20.1",
+      "path": "mods/SereneSeasons-forge-1.20.1-9.1.0.3.jar",
+      "url": "https://cdn.modrinth.com/data/e0bNACJD/versions/WMrhrybF/SereneSeasons-forge-1.20.1-9.1.0.3.jar",
+      "sha1": "aaf4fb2289c085f758032dc0537ba40f10f3df89",
+      "size": 160886
     },
     {
       "name": "Forge 3.6.0",
@@ -269,11 +479,18 @@
       "size": 1220810
     },
     {
-      "name": "1.20.1-1.5.9.2391",
-      "path": "mods/sophisticatedcore-1.20.1-1.5.9.2391.jar",
-      "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/ClP52cOE/sophisticatedcore-1.20.1-1.5.9.2391.jar",
-      "sha1": "3e44e84addd809d253daf8c248efb04bb755bb0d",
-      "size": 1763288
+      "name": "1.20.1-1.5.12.2412",
+      "path": "mods/sophisticatedcore-1.20.1-1.5.12.2412.jar",
+      "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/YxgjJy68/sophisticatedcore-1.20.1-1.5.12.2412.jar",
+      "sha1": "d5841b7bebb38459572fbcd6ada2db47b8f6390d",
+      "size": 1763486
+    },
+    {
+      "name": "1.20.1-1.5.6.2183",
+      "path": "mods/sophisticatedstorage-1.20.1-1.5.6.2183.jar",
+      "url": "https://cdn.modrinth.com/data/hMlaZH8f/versions/vFpp1Lw7/sophisticatedstorage-1.20.1-1.5.6.2183.jar",
+      "sha1": "76bfa148effeeda6e27de435a2657dfe609669f6",
+      "size": 1932769
     },
     {
       "name": "Steam 'n' Rails 1.7.3 Forge 1.20.1 C6",
@@ -281,6 +498,13 @@
       "url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/7Uk6lWkU/Steam_Rails-1.7.3%2Bforge-mc1.20.1.jar",
       "sha1": "5f904126d942cdbd272a5254ec6145851e5e1e7a",
       "size": 17042037
+    },
+    {
+      "name": "1.20-3.1.44-forge",
+      "path": "mods/supplementaries-1.20-3.1.44-forge.jar",
+      "url": "https://cdn.modrinth.com/data/fFEIiSDQ/versions/foXRPXFH/supplementaries-1.20-3.1.44-forge.jar",
+      "sha1": "01e9bd4c264c6e04c7613095438bf0eee657b16f",
+      "size": 13686603
     },
     {
       "name": "[TaCZ] Timeless and Classics Zero 1.1.8-hotfix2",
@@ -299,7 +523,7 @@
     {
       "name": "vexilium-0.1.0",
       "path": "mods/vexilium-0.1.0.jar",
-      "url": "https://github.com/TALFADEV/vexilium-modpack/releases/download/modpack-0.2.0/vexilium-0.1.0.jar",
+      "url": "https://github.com/TALFADEV/vexilium-modpack/releases/download/modpack-0.2.1/vexilium-0.1.0.jar",
       "sha1": "a9cf0f9c2ab35fc10ec1d16c80708d0fd08c8869",
       "size": 2217581
     },
@@ -361,6 +585,97 @@
       "artist": "RandomMind",
       "title": "victory",
       "url": "https://github.com/TALFADEV/vexilium-modpack/releases/download/radio-1/RandomMind.-.victory.mp3"
+    }
+  ],
+  "optional": [
+    {
+      "id": "sound_physics",
+      "name": "Sons réalistes",
+      "description": "Échos, réverbération et sons étouffés selon les lieux (Sound Physics Remastered).",
+      "default": false,
+      "mods": [
+        {
+          "name": "Sound Physics Remastered",
+          "path": "mods/sound-physics-remastered-forge-1.20.1-1.5.1.jar",
+          "url": "https://cdn.modrinth.com/data/qyVF9oeo/versions/x0sJ9PeR/sound-physics-remastered-forge-1.20.1-1.5.1.jar",
+          "sha1": "944b4673bcab118f411d050b2cd6b693262bb664",
+          "size": 206984
+        }
+      ]
+    },
+    {
+      "id": "ambient_sounds",
+      "name": "Ambiance sonore",
+      "description": "Sons de nature selon le biome, l'heure et la météo (AmbientSounds).",
+      "default": false,
+      "mods": [
+        {
+          "name": "AmbientSounds",
+          "path": "mods/AmbientSounds_FORGE_v6.3.11_mc1.20.1.jar",
+          "url": "https://cdn.modrinth.com/data/fM515JnW/versions/YOYpWGZg/AmbientSounds_FORGE_v6.3.11_mc1.20.1.jar",
+          "sha1": "61f0bcbfd404de4aeb0627b5b83a72d069fb1825",
+          "size": 53432741
+        },
+        {
+          "name": "CreativeCore",
+          "path": "mods/CreativeCore_FORGE_v2.12.40_mc1.20.1.jar",
+          "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/ChKayKur/CreativeCore_FORGE_v2.12.40_mc1.20.1.jar",
+          "sha1": "f8b65310e0183630dd00c1ade12f9b6ecd243287",
+          "size": 1144290
+        }
+      ]
+    },
+    {
+      "id": "shaders",
+      "name": "Shaders",
+      "description": "Permet d'utiliser des packs de shaders (Oculus). Gourmand : pour les bons PC.",
+      "default": false,
+      "mods": [
+        {
+          "name": "Oculus",
+          "path": "mods/oculus-mc1.20.1-1.8.0.jar",
+          "url": "https://cdn.modrinth.com/data/GchcoXML/versions/iQ1SwGc3/oculus-mc1.20.1-1.8.0.jar",
+          "sha1": "984f774e71790deaec674c7587bd24e0711871b2",
+          "size": 2851119
+        }
+      ]
+    },
+    {
+      "id": "create_better_fps",
+      "name": "Create plus fluide",
+      "description": "Améliore les performances des machines Create avec les shaders (Create Better FPS, installe aussi Oculus).",
+      "default": false,
+      "mods": [
+        {
+          "name": "Oculus",
+          "path": "mods/oculus-mc1.20.1-1.8.0.jar",
+          "url": "https://cdn.modrinth.com/data/GchcoXML/versions/iQ1SwGc3/oculus-mc1.20.1-1.8.0.jar",
+          "sha1": "984f774e71790deaec674c7587bd24e0711871b2",
+          "size": 2851119
+        },
+        {
+          "name": "CreateBetterFps",
+          "path": "mods/createbetterfps-1.20.1-1.1.2.jar",
+          "url": "https://cdn.modrinth.com/data/lMYIHZNH/versions/75GMC9GD/createbetterfps-1.20.1-1.1.2.jar",
+          "sha1": "e3906e1b5cc33ad9ff930fc65b316564a3059fbf",
+          "size": 25214
+        }
+      ]
+    },
+    {
+      "id": "distant_horizons",
+      "name": "Vue très lointaine",
+      "description": "Affiche le paysage bien au-delà de la distance normale (Distant Horizons). Gourmand en mémoire et en disque.",
+      "default": false,
+      "mods": [
+        {
+          "name": "Distant Horizons",
+          "path": "mods/DistantHorizons-3.3.3-1.20.1-fabric-forge.jar",
+          "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/6UnEfsRQ/DistantHorizons-3.3.3-1.20.1-fabric-forge.jar",
+          "sha1": "5447c4716571bfdba817c85278a9ce0d411573ec",
+          "size": 27700542
+        }
+      ]
     }
   ]
 }
