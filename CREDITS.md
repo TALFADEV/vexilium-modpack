@@ -17,6 +17,7 @@ Merci à leurs auteurs. Seul le mod Vexilium (tous droits réservés) est publi�
 | Embeddium | 0.3.31+mc1.20.1 | LGPL-3.0-only | https://modrinth.com/mod/embeddium |
 | Entity Culling | 1.11.3 | LicenseRef-tr7zw-Protective-License | https://modrinth.com/mod/entityculling |
 | FerriteCore | 6.0.1 | MIT | https://modrinth.com/mod/ferrite-core |
+| Fracture Point | 3.0.0-PT2 | LicenseRef-All-Rights-Reserved | https://modrinth.com/mod/fracturepoint |
 | Geckolib | 4.8.4 | MIT | https://modrinth.com/mod/geckolib |
 | ImmediatelyFast | 1.5.5+1.20.4-forge | LGPL-3.0-or-later | https://modrinth.com/mod/immediatelyfast |
 | Jade 🔍 | 11.13.3+forge | CC-BY-NC-SA-4.0 | https://modrinth.com/mod/jade |
