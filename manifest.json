@@ -1,5 +1,5 @@
 {
-  "version": "0.2.9",
+  "version": "0.3.0",
   "minecraft": "1.20.1",
   "forge": "47.4.10",
   "server": {
@@ -16,6 +16,13 @@
     }
   ],
   "mods": [
+    {
+      "name": "Ad Astra 1.15.21",
+      "path": "mods/ad_astra-forge-1.20.1-1.15.21.jar",
+      "url": "https://cdn.modrinth.com/data/3ufwT9JF/versions/8EwzHQkx/ad_astra-forge-1.20.1-1.15.21.jar",
+      "sha1": "562b28ad84cde481f857562c7991a8750b814e24",
+      "size": 7508773
+    },
     {
       "name": "1.20-2.2.6",
       "path": "mods/amendments-1.20-2.2.6.jar",
@@ -50,6 +57,13 @@
       "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/kW8DoegV/bellsandwhistles-0.4.5-1.20.x-Create6.0%2B.jar",
       "sha1": "2487eea5f1368d70e16c7c6a08c18be3b5d3c0d0",
       "size": 199902
+    },
+    {
+      "name": "[Forge/NeoForge] Botarium 2.3.4",
+      "path": "mods/botarium-forge-1.20.1-2.3.4.jar",
+      "url": "https://cdn.modrinth.com/data/2u6LRnMa/versions/O7D6FTfW/botarium-forge-1.20.1-2.3.4.jar",
+      "sha1": "a6928cb03b7c5f81900d3d3c8e8c8f6a89a51a5b",
+      "size": 157633
     },
     {
       "name": "Carry On 2.1.2.7",
@@ -451,6 +465,13 @@
       "size": 642732
     },
     {
+      "name": "[Forge] Resourceful Config 2.1.3",
+      "path": "mods/resourcefulconfig-forge-1.20.1-2.1.3.jar",
+      "url": "https://cdn.modrinth.com/data/M1953qlQ/versions/DERs8u7v/resourcefulconfig-forge-1.20.1-2.1.3.jar",
+      "sha1": "597d40920dcc935f963842c817dcc4901862ab14",
+      "size": 136923
+    },
+    {
       "name": "[Forge] Resourceful Lib 2.1.29",
       "path": "mods/resourcefullib-forge-1.20.1-2.1.29.jar",
       "url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/OhsHaCcW/resourcefullib-forge-1.20.1-2.1.29.jar",
@@ -530,9 +551,9 @@
     {
       "name": "vexilium-0.1.0",
       "path": "mods/vexilium-0.1.0.jar",
-      "url": "https://github.com/TALFADEV/vexilium-modpack/releases/download/modpack-0.2.9/vexilium-0.1.0.jar",
-      "sha1": "861d4bce0f9a0c3d12f97773a8621e2365f3e39d",
-      "size": 3979673
+      "url": "https://github.com/TALFADEV/vexilium-modpack/releases/download/modpack-0.3.0/vexilium-0.1.0.jar",
+      "sha1": "f93fa634d7612fb596e5fcb608453b3463aaeecb",
+      "size": 3992367
     },
     {
       "name": "Simple Voice Chat 1.20.1-2.6.22",
