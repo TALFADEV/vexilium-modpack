@@ -1,5 +1,5 @@
 {
-  "version": "0.3.4",
+  "version": "0.3.5",
   "minecraft": "1.20.1",
   "forge": "47.4.10",
   "server": {
@@ -551,9 +551,9 @@
     {
       "name": "vexilium-0.1.0",
       "path": "mods/vexilium-0.1.0.jar",
-      "url": "https://github.com/TALFADEV/vexilium-modpack/releases/download/modpack-0.3.4/vexilium-0.1.0.jar",
-      "sha1": "ac6305630e71a7e5a4334db7de8d5368280d988c",
-      "size": 4443854
+      "url": "https://github.com/TALFADEV/vexilium-modpack/releases/download/modpack-0.3.5/vexilium-0.1.0.jar",
+      "sha1": "2353b90ff8eb23db86d5bdbe8477c218a124ab2c",
+      "size": 4451854
     },
     {
       "name": "Simple Voice Chat 1.20.1-2.6.22",
